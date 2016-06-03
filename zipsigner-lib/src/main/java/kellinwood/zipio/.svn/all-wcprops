@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/393/zipio-lib/trunk/src/main/java/kellinwood/zipio
+END
+ZioEntryInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/98/zipio-lib/trunk/src/main/java/kellinwood/zipio/ZioEntryInputStream.java
+END
+CentralEnd.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/87/zipio-lib/trunk/src/main/java/kellinwood/zipio/CentralEnd.java
+END
+ZioEntryOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/135/zipio-lib/trunk/src/main/java/kellinwood/zipio/ZioEntryOutputStream.java
+END
+ZipInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/226/zipio-lib/trunk/src/main/java/kellinwood/zipio/ZipInput.java
+END
+ZipOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/206/zipio-lib/trunk/src/main/java/kellinwood/zipio/ZipOutput.java
+END
+ZioEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/393/zipio-lib/trunk/src/main/java/kellinwood/zipio/ZioEntry.java
+END
+ZipListingHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/135/zipio-lib/trunk/src/main/java/kellinwood/zipio/ZipListingHelper.java
+END
